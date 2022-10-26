@@ -1,2 +1,2 @@
 # frontend
-this is html code
+this is html project
